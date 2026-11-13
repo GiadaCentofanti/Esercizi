@@ -1,0 +1,28 @@
+# Prompt di Progetto: Sito Web Interattivo sui Servizi Pre-Web
+
+## Obiettivo
+Realizza un sito web interattivo che racconti la storia e il funzionamento dei diversi mezzi elettronici utilizzati prima del **World Wide Web**, concentrandosi sulle reti e sui computer appartenenti alla categoria dei servizi **«pre-web»**.
+
+## Argomenti da Trattare
+Analizza in modo approfondito i sistemi che hanno reso possibile lo sviluppo dei moderni siti web, dei social network e delle tecnologie attuali:
+* **BBS** (Bulletin Board System)
+* **Minitel**
+* **Telenext**
+* **Usenet**
+
+Evidenzia come questi servizi abbiano introdotto concetti fondamentali quali **email, forum, file sharing e accesso remoto alle informazioni**, molto prima che i browser odierni li rendessero accessibili al grande pubblico.
+
+## Struttura e Interattività
+* **Formato:** Articolo interattivo.
+* **Parole chiave interattive:** Integra i contenuti di approfondimento (ricavati da articoli, documenti e fonti storiche) all'interno di parole chiave cliccabili posizionate sul fronte della pagina principale.
+* **Didascalie e descrizioni:** Inserisci varie didascalie e schede descrittive dettagliate per ciascuno dei servizi pre-web trattati.
+
+## Target e Design
+* **Target Audience:** Appassionati di informatica e di tecnologie ormai «estinte» di età superiore ai **16 anni**.
+* **Stile Visivo:** Struttura chiara, pulita e comprensibile, con **colori tenui e riconoscibili** che richiamino lo stile retrò delle vecchie reti per offrire un'esperienza immersiva.
+
+## Requisiti Tecnici e Qualitativi
+* Basa i contenuti sul documento di ricerca fornito.
+* Sfrutta tutti i tool MCP disponibili per rendere il sito scorrevole, preciso ed estremamente dettagliato.
+* Assicurati che l'interfaccia sia esteticamente curata e intuitiva.
+* Verifica che il progetto sia completamente privo di errori, sia a livello di codice che di grammatica.
